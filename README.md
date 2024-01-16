@@ -2,7 +2,7 @@
 
 Website criado em um curso da empresa Teknisa.
 
-[Live](https://quiz-murita.netlify.app/)
+[Live](https://muritadb.github.io/programmers-search-in-JS/)
 
 ## Tecnologias aplicadas:
   - javascript
